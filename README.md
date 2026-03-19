@@ -2,15 +2,18 @@
   <img src="docs/banner" alt="Bannière du projet" width="1000" height="250"/>
 </p> 
 
-# 🧠 Customer Segmentation & Value Prediction with PySpark
+# Customer Segmentation & Value Prediction with PySpark 
 
-## 📌 Overview
 
 This project leverages **PySpark** to segment customers and predict high-value profiles using machine learning.
 
-👉 Goal: **optimize marketing decisions with data-driven insights at scale**
 
----
+## Goal: 🎯
+
+Segment the dataset to identify high-value profiles and customers at risk of churn.
+
+Optimize marketing decisions with data-driven insights at scale 
+
 
 ## ⚙️ Tech Stack
 
@@ -20,15 +23,11 @@ This project leverages **PySpark** to segment customers and predict high-value p
 * Logistic Regression (classification)
 * RFM (Recency, Frequency, Monetary)
 
----
-
 ## 🔍 Key Steps
 
 * Data cleaning & feature engineering (RFM)
 * Customer segmentation with **K-Means**
 * High-value customer prediction using **Logistic Regression**
-
----
 
 ## 📊 Key Results
 
@@ -36,15 +35,11 @@ This project leverages **PySpark** to segment customers and predict high-value p
 * Observed **Pareto effect** (small group drives most revenue)
 * Built a model to **predict high-value customers**
 
----
-
 ## 🚀 Business Impact
 
 * Target high-value customers → **maximize ROI**
 * Detect churn early → **improve retention**
 * Enable **personalized marketing strategies**
-
----
 
 ## 🧠 What This Project Shows
 
